@@ -14,5 +14,7 @@ e apos instalação do pacote, se deve instalar as dependenecias do robotframewo
 para mais informações é possivel acessar a documentação da library : https://robotframework-browser.org/#installation
 
 tendo todos os requisitos e dependnecias supridos, basta executar o o comando "robot .\tests\front\gestao-ferias.robot"
-![image](https://github.com/neverdjou/desafio_fuerza_studio/assets/62752617/8ee88e82-796f-47e3-984e-f268649c131c)
+
+![image](https://github.com/neverdjou/desafio_fuerza_studio/assets/62752617/2d242a50-30b4-4682-8075-da9a0ff22dd9)
+
 
