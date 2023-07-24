@@ -6,6 +6,7 @@ Repositório para acesso aos reportes de testes e evidencias : https://drive.goo
 
 -------------------
 Requisitos do sistema para executar automação 
+
 Python versão 3 + 
 
 Node JS
